@@ -1,2 +1,2 @@
-# GitLessonAlexandr
-Online lessons about Git guide
+This is our first commit 
+we are using text for example
