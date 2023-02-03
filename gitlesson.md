@@ -34,5 +34,5 @@ To create new file from terminal use
 
 * **git clone "URL from github project** - clone repository
 * **git clone "URL from github project" "folder_name** - clone repository and create folder for it in the project.
-
-
+* **git pull** - download commit with changes.
+* **git push** - upload commit with changes.
